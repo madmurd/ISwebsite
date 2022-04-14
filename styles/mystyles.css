@@ -1,0 +1,72 @@
+p{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#363538;
+}
+
+body{
+    background-color: #d5f0f7;
+}
+
+h1{
+    text-align: center;
+}
+
+.resume{
+    text-decoration: underline #23325c;
+}
+
+.middle{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:110%;
+    color:#363538;
+}
+
+.blue{
+    color: #23325c;
+}
+
+h2{
+    color: #23325c;
+}
+
+a{
+    font-size:x-small;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.hiking{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.pickleball{
+    float: right;
+    width: 60%;
+    padding: 5px;
+}
+
+.disney{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+}
+
+.newport{
+    float: right;
+    width: 60%;
+    padding: 5px; 
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
